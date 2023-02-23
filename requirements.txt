@@ -3,10 +3,10 @@ py-tgcalls==0.9.1
 requests
 pillow
 aiofile
-git+https://github.com/mallumoviesearch/ytdlp
+yt-dlp
 aiofiles
 youtube-search-python
-git+https://github.com/mallumoviesearch/okseep
+speedtest-cli
 numpy
 flask
 flask_restful
